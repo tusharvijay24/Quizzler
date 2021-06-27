@@ -49,6 +49,7 @@ struct QuizBrain {
         }else
         {
             questionNumber = 0
+            score = 0
         }
     }
     
